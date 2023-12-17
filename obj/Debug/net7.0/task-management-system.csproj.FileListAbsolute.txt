@@ -261,3 +261,4 @@
 /Volumes/Crucial X6/dotnet-projects/task-management-system/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
 /Volumes/Crucial X6/dotnet-projects/task-management-system/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /Volumes/Crucial X6/dotnet-projects/task-management-system/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Volumes/Crucial X6/dotnet-projects/task-management-system/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
